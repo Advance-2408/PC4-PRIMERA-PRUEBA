@@ -1,0 +1,17 @@
+{
+  "1": {
+    "titulo": "Alimentación Saludable",
+    "imagen": "imagenes/p9.jpg",
+    "texto": "Una adecuada alimentación garantiza que tu mascota tenga una vida más larga, feliz y saludable. Cada etapa de su crecimiento requiere nutrientes específicos: proteínas para el desarrollo muscular, vitaminas y minerales para reforzar huesos y sistema inmune. Una dieta equilibrada previene problemas digestivos, alergias y obesidad. También es fundamental ofrecer agua fresca diariamente y evitar alimentos tóxicos como el chocolate, uvas, cebolla, ajo, alcohol y alimentos altamente procesados. Consulta siempre con un veterinario para determinar la mejor dieta según la edad, tamaño, raza y condiciones de salud de tu mascota. Además, considera la importancia de horarios regulares de comida y porciones adecuadas; el sobrepeso reduce la calidad de vida de una mascota y puede acortar su esperanza de vida."
+  },
+  "2": {
+    "titulo": "Juegos y Ejercicio",
+    "imagen": "imagenes/p10.jpg",
+    "texto": "El juego y el ejercicio son vitales para el bienestar físico y emocional de las mascotas. La falta de actividad puede generar ansiedad, estrés y comportamientos destructivos. Paseos diarios, juegos de búsqueda, juguetes interactivos y circuitos caseros ayudan a que tu mascota libere energía y se mantenga activa. Además, la actividad física fortalece el corazón, músculos y articulaciones, mientras los juegos mentales estimulan su inteligencia. Dedicar tiempo a jugar con ellos también fortalece el vínculo afectivo que tienes con tu mascota. Considera variar la intensidad y tipo de ejercicio según la edad y condición física del animal."
+  },
+  "3": {
+    "titulo": "Cuidado y Bienestar",
+    "imagen": "imagenes/p11.jpg",
+    "texto": "El cuidado integral de una mascota incluye higiene, salud preventiva, amor y un hogar seguro. Cepillado regular del pelaje, corte de uñas, baños cuando sea necesario y limpieza dental ayudan a prevenir enfermedades. Las visitas periódicas al veterinario, vacunación y desparasitación mantienen su salud al día. Asimismo, proporcionar un espacio cómodo para descansar, juguetes seguros y un ambiente libre de peligros hará que tu mascota se sienta protegida y feliz. Más allá de lo físico, la atención emocional y la socialización son fundamentales para el equilibrio de tu mascota."
+  }
+}

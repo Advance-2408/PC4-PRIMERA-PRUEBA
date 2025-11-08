@@ -1,0 +1,38 @@
+[
+  {
+    "nombre": "Whiskas adulto 1.5kg",
+    "descripcion": "Alimento seco para gatos adultos sabor carne. Nutrición completa y el sabor que aman.",
+    "precio": "S/. 35.50",
+    "imagen": "imagenes/p1.jpg"
+  },
+  {
+    "nombre": "Juguete pollo chillón",
+    "descripcion": "Clásico y resistente juguete de goma para perros. Emite un sonido divertido para horas de juego.",
+    "precio": "S/. 12.00",
+    "imagen": "imagenes/p2.jpg"
+  },
+  {
+    "nombre": "Jaula para hámsters, Happy Trail",
+    "descripcion": "Hogar con túneles y niveles para hámsters. Seguro y divertido.",
+    "precio": "S/. 120.00",
+    "imagen": "imagenes/p3.jpg"
+  },
+  {
+    "nombre": "Collar reflectante",
+    "descripcion": "Ideal para paseos nocturnos. Ajustable y seguro para perros de todos los tamaños.",
+    "precio": "S/. 25.00",
+    "imagen": "imagenes/p4.jpg"
+  },
+  {
+    "nombre": "Rascador para gatos deluxe",
+    "descripcion": "Centro de juegos con varias plataformas y material resistente para arañar.",
+    "precio": "S/. 89.90",
+    "imagen": "imagenes/p5.jpg"
+  },
+  {
+    "nombre": "Casita para conejos",
+    "descripcion": "Espaciosa y cómoda casita de madera para conejos o roedores pequeños.",
+    "precio": "S/. 150.00",
+    "imagen": "imagenes/p6.jpg"
+  }
+]
